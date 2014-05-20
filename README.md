@@ -16,14 +16,14 @@ El objetivo es desarrollar un sistema operativo empresarial, remoto o local para
 
 Basado en los siguientes componentes:
 
-Sistema Operativo:      Ubuntu 12.04
-Gestor de Servidor:     Virtualmin-webmin
-Servidor Red:           Apache
-Base de Datos:          Mysql
-Plataforma web:         Wordpress
-Aplicación e-mail:      Roundcube
-Aplicacíon Documentos:  Owncloud
-Unificación de accesos: Ldap
++ Sistema Operativo:      Ubuntu 12.04
++ Gestor de Servidor:     Virtualmin-webmin
++ Servidor Red:           Apache
++ Base de Datos:          Mysql
++ Plataforma web:         Wordpress
++ Aplicación e-mail:      Roundcube
++ Aplicacíon Documentos:  Owncloud
++ Unificación de accesos: Ldap
 
 ¿quieres contribuir? contacto arroba linceceleste punto com
 
