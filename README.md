@@ -1,12 +1,12 @@
 uno
 ===
 
-OS1: Sistema Operativo Lince Celeste UNO (GPL)
-URL: http://lince.uno
-Version:  0.1
-Idioma:   Español
+# OS1: Sistema Operativo Lince Celeste UNO (GPL)
+# URL: http://lince.uno
+# Version:  0.1
+# Idioma:   Español
 
-El objetivo es desarrollar un sistema operativo empresarial, remoto o local para generación y gestión de empresas.
+Sistema operativo empresarial, remoto o local para generación y gestión de empresas.
 
 + Administración de Equipos
 + Contabilidad y Finanzas
@@ -25,8 +25,7 @@ Basado en los siguientes componentes:
 + Aplicacíon Documentos:  Owncloud
 + Unificación de accesos: Ldap
 
-¿quieres contribuir? contacto arroba linceceleste punto com
-
+¿quieres contribuir? hola arroba lince.uno
 
  
 
